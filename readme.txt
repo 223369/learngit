@@ -1,1 +1,1 @@
-Git is a vision control system
+Git is a distributed vision control system
